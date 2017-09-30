@@ -23,8 +23,10 @@ SendDemo_rc_car_xy_0.ino (example)
 Libraries included in this repository:
 
 Adafruit_GFX_Library : Support OLED display
+
 Adafruit_SSD1306_Lite : Support OLED display (up to 4 lines of text only to conserve
                         RAM space for Arduino)
+
 RCSwitch : Support wireless 433Mhz modules
 
 

@@ -5,7 +5,7 @@ Use Arduino UNO and Nano to build a toy car and a remote control module.
 
 RecieveDemo_rc_car_xy_0.ino (example)
 
-Target board: Arduino UNO R3 (Toy Car)
+  Target board: Arduino UNO R3 (Toy Car)
 
   Example: This code is written for the processor which recieves
            the X and Y positions of the joystick from the remote

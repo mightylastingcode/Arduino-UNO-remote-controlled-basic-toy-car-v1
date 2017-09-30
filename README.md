@@ -20,5 +20,14 @@ SendDemo_rc_car_xy_0.ino (example)
            the X and Y positions of the joystick to the toy
            car.   
   
-  See this blog for more details of the project.
+Libraries included in this repository:
+
+Adafruit_GFX_Library : Support OLED display
+Adafruit_SSD1306_Lite : Support OLED display (up to 4 lines of text only to conserve
+                        RAM space for Arduino)
+RCSwitch : Support wireless 433Mhz modules
+
+
+
+See this blog for more details of the project.
   https://www.miketechuniverse.com/single-post/2017/05/14/My-Arduino-Test-Vehicle
